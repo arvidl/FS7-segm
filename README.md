@@ -5,8 +5,8 @@
 ## MacOS (July 2021)
 [ReleaseNotes](https://surfer.nmr.mgh.harvard.edu/fswiki/ReleaseNotes)
 
-### Install and Setup 7.2.0 for MacOS: see [here](https://surfer.nmr.mgh.harvard.edu/fswiki//FS7_mac)
-
+### Install and Setup 7.2.0 for MacOS
+See [here](https://surfer.nmr.mgh.harvard.edu/fswiki//FS7_mac)
 
 - freesurfer-darwin-macOS-7.2.0.pkg  i.e. -------- freesurfer-darwin-macOS-7.2.0-20210713-aa8f76b --------
 - XQuartz-2.8.1.dmg
