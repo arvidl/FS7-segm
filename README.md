@@ -3,7 +3,7 @@
 
 
 ## MacOS (July 2021)
-
+[ReleaseNotes](https://surfer.nmr.mgh.harvard.edu/fswiki/ReleaseNotes)
 
 ### Install and Setup 7.2.0 for MacOS: see [here](https://surfer.nmr.mgh.harvard.edu/fswiki//FS7_mac)
 
@@ -23,6 +23,9 @@ sudo bash /Applications/freesurfer/7.1.1/uninstall.sh
 export FREESURFER_HOME=/Applications/freesurfer/7.2.0
 export SUBJECTS_DIR=$FREESURFER_HOME/subjects
 source $FREESURFER_HOME/SetUpFreeSurfer.sh
+
+# Test freeview (v. 3.0)
+freeview /Applications/freesurfer/7.2.0/subjects/bert/mri/brain.mgz
 ```
 
 
