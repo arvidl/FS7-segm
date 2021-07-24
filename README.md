@@ -12,7 +12,7 @@
 - XQuartz-2.8.1.dmg
 
 
-Uninstall 7.1.1:
+Substitute FS 7.1.1 with 7.2.0:
 ```bash
 sudo cp -r /Applications/freesurfer/7.1.1/MCRv84 /Applications/freesurfer/7.2.0/
 sudo cp /Applications/freesurfer/7.1.1/license.txt /Applications/freesurfer/7.2.0/
